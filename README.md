@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] Added a nav bar to the website
 
 ## Video Walkthrough
 
@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 <img src='codepath-prework-readme.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ScreenToGif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -34,11 +34,12 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had to take some time to learn version control and git.
+I also had to practice destructuring lists.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Oscar Guerrero
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
